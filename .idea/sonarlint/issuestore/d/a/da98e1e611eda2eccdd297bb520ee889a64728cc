@@ -1,0 +1,55 @@
+
+a
+java:S1192&"FDefine a constant instead of duplicating this literal "utf-8" 5 times.(ÿ˜ŸŞøÿÿÿÿ
+_
+java:S1192:"IDefine a constant instead of duplicating this literal "/picture" 4 times.(òâª
+d
+java:S2095<"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ô®¾Ö
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹Â·Š
+M
+java:S1854?"7Remove this useless assignment to local variable "len".(Öè
+<	java:S131$""Add a default case to this switch.(ÖøÃ˜úÿÿÿÿ
+|
+java:S1989&"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(ÿ˜ŸŞøÿÿÿÿ
+o
+java:S1989)"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(µñƒ¿
+w
+java:S1989)"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(µñƒ¿
+|
+java:S1989,"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Ü­Ï×ùÿÿÿÿ
+t
+java:S1989/"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÊÀ´Ãùÿÿÿÿ
+|
+java:S1989/"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(ÊÀ´Ãùÿÿÿÿ
+t
+java:S19892"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Õœ™òøÿÿÿÿ
+|
+java:S19892"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Õœ™òøÿÿÿÿ
+k
+java:S19896"PHandle the following exception that could be thrown by "available": IOException.(™ùÿ§ÿÿÿÿÿ
+p
+java:S19896"UHandle the following exception that could be thrown by "getInputStream": IOException.(™ùÿ§ÿÿÿÿÿ
+;
+java:S10759"&Remove this hard-coded path-delimiter.(Ç£ùi
+p
+java:S1989;"UHandle the following exception that could be thrown by "getInputStream": IOException.(¡÷¾Ïûÿÿÿÿ
+C
+java:S1481>"(Remove this unused "len" local variable.(¤í´‚şÿÿÿÿ
+a
+java:S1989?"KHandle the following exception that could be thrown by "read": IOException.(Öè
+g
+java:S1989@"LHandle the following exception that could be thrown by "write": IOException.(òãÇ¨ûÿÿÿÿ
+g
+java:S1989B"LHandle the following exception that could be thrown by "close": IOException.(€¶º‡ıÿÿÿÿ
+b
+java:S1989C"LHandle the following exception that could be thrown by "close": IOException.(„¸Ç§
+<	java:S131E""Add a default case to this switch.(ÖøÃ˜úÿÿÿÿ
+|
+java:S1989S"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ø“×ÿÿÿÿÿ
+M
+java:S1135U"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+
+java:S1989^"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ8øÄÆşÉ1
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÿÓÔ†øÿÿÿÿ

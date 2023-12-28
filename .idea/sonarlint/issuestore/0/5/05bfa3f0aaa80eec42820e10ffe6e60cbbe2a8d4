@@ -1,0 +1,17 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üª¼í8†êşÉ1
+t
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ØÔ©’üÿÿÿÿ
+C	java:S108&")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(×‰Èçüÿÿÿÿ
+|
+java:S1989E"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.( ö‡µúÿÿÿÿ
+E
+java:S1128"(Remove this unused import 'model.Goods'.(«Ò¹ó8ş‘éşÉ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ş‘éşÉ1
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÿÓÔ†øÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(€‡¼

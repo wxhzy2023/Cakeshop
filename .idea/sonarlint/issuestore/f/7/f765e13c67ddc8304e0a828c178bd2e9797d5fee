@@ -1,0 +1,73 @@
+
+b
+java:S1192("GDefine a constant instead of duplicating this literal "utf-8" 11 times.(Ü¨Å†úÿÿÿÿ
+_
+java:S1192N"IDefine a constant instead of duplicating this literal "/picture" 4 times.(òâª
+d
+java:S2095P"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ô®¾Ö
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹Â·Š
+M
+java:S1854S"7Remove this useless assignment to local variable "len".(Öè
+<	java:S131&""Add a default case to this switch.(ÖøÃ˜úÿÿÿÿ
+t
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ü¨Å†úÿÿÿÿ
+|
+java:S1989("aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Ü¨Å†úÿÿÿÿ
+|
+java:S1989+"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(ÿ˜ŸŞøÿÿÿÿ
+q
+java:S1989."[Handle the following exception that could be thrown by "parseFloat": NumberFormatException.(…Â÷Ç
+w
+java:S1989."aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(…Â÷Ç
+|
+java:S19891"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Ü­Ï×ùÿÿÿÿ
+|
+java:S19894"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(íş¶çûÿÿÿÿ
+|
+java:S19897"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(îôêøÿÿÿÿ
+|
+java:S1989:"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Ï¾Èøÿÿÿÿ
+t
+java:S1989="YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÊÀ´Ãùÿÿÿÿ
+|
+java:S1989="aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(ÊÀ´Ãùÿÿÿÿ
+t
+java:S1989@"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Õœ™òøÿÿÿÿ
+|
+java:S1989@"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Õœ™òøÿÿÿÿ
+o
+java:S1989C"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Çõßø
+w
+java:S1989C"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(Çõßø
+o
+java:S1989F"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¦¶çÀ
+w
+java:S1989F"aHandle the following exception that could be thrown by "getString": UnsupportedEncodingException.(¦¶çÀ
+k
+java:S1989J"PHandle the following exception that could be thrown by "available": IOException.(™ùÿ§ÿÿÿÿÿ
+p
+java:S1989J"UHandle the following exception that could be thrown by "getInputStream": IOException.(™ùÿ§ÿÿÿÿÿ
+;
+java:S1075M"&Remove this hard-coded path-delimiter.(Ç£ùi
+p
+java:S1989O"UHandle the following exception that could be thrown by "getInputStream": IOException.(¡÷¾Ïûÿÿÿÿ
+C
+java:S1481R"(Remove this unused "len" local variable.(¤í´‚şÿÿÿÿ
+a
+java:S1989S"KHandle the following exception that could be thrown by "read": IOException.(Öè
+g
+java:S1989T"LHandle the following exception that could be thrown by "write": IOException.(òãÇ¨ûÿÿÿÿ
+g
+java:S1989V"LHandle the following exception that could be thrown by "close": IOException.(€¶º‡ıÿÿÿÿ
+b
+java:S1989W"LHandle the following exception that could be thrown by "close": IOException.(„¸Ç§
+<	java:S131Y""Add a default case to this switch.(ÖøÃ˜úÿÿÿÿ
+ƒ
+java:S1989g"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(şÃÛùúÿÿÿÿ8ñ™îşÉ1
+M
+java:S1135i"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+
+java:S1989r"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ8…¤ñşÉ1
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÿÓÔ†øÿÿÿÿ
